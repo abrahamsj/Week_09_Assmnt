@@ -1,1 +1,3 @@
-# Week_09_Assmnt
+# Random Forest
+
+Team Members: Tristen Brewer, Nicholas Fenech,Janeel Abrahams
