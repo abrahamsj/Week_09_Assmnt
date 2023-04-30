@@ -17,7 +17,7 @@ Our initial test will be the algorithm's most basic form, this will be done usin
 # Setting Up Your model
 
 You will need the following imports to replicate our results. 
-### WARNING ALWAYS CHECK YOUR VERSION AS FUNCTIONS MAY BE DEPRECATED FOR OLDER VERSIONS
+### WARNING:Always check your version as functions maybe deprecated 
 
 - `import pandas as pd`
 - `from sklearn.model_selection import train_test_split`
@@ -43,11 +43,11 @@ You will need the following imports to replicate our results.
       `X_train,X_test,y_train,y_test = train_test_split(X,y,test_size = decimal percentage of the data that you want to train on)`
      
 - Create your model
-    ` model = RandomForestRegressor(desired parameter)`
+     -` model = RandomForestRegressor(desired parameter)`
 - Fit your model
-      `model = model.fit(X_train, y_train)`
+     -`model = model.fit(X_train, y_train)`
 - Score your model
-        `model = model.score(X_train, y_train)`
+      -`model = model.score(X_train, y_train)`
         
 Repeat all the steps with the exception of fitting for your test dataset.
 
@@ -58,7 +58,7 @@ Repeat all the steps with the exception of fitting for your test dataset.
 - explained_variance_score (gives similar result of scored model)
 
 
-If interested in doing what was done in the project explore the notebooks to see our exact steps.
+##### If interested in doing what was done in the project explore the notebooks to see our exact steps.
 
 
 
