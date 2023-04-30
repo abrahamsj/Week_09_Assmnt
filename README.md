@@ -15,6 +15,7 @@ Our initial test will be the algorithm's most basic form, this will be done usin
 - PDF of powerpoint slides
 
 # Setting Up Your model
+#### Be sure to correct your path depending on the data/Data folder used.
 
 You will need the following imports to replicate our results. 
 ### WARNING:Always check your version as functions maybe deprecated 
