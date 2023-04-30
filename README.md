@@ -40,16 +40,16 @@ You will need the following imports to replicate our results.
           - Will you need to create dummies?
       - Are the focus column the same size?
 - Split your data into training and test/validation
-      `X_train,X_test,y_train,y_test = train_test_split(X,y,test_size = decimal percentage of the data that you want to train on)`
+      - `X_train,X_test,y_train,y_test = train_test_split(X,y,test_size = decimal percentage of the data that you want to train on)`
      
 - Create your model
-     -` model = RandomForestRegressor(desired parameter)`
+      -  ` model = RandomForestRegressor(desired parameter)`
 - Fit your model
-     -`model = model.fit(X_train, y_train)`
+      - `model = model.fit(X_train, y_train)`
 - Score your model
-      -`model = model.score(X_train, y_train)`
+      - `model = model.score(X_train, y_train)`
         
-Repeat all the steps with the exception of fitting for your test dataset.
+##### Repeat all the steps with the exception of fitting for your test dataset.
 
 #### Optional metrics include:
 - mean_squared_error
