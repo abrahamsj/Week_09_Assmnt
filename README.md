@@ -13,21 +13,21 @@ Our initial test will be the algorithm's most basic form, this will be done usin
 You will need the following import to replicate our results. 
 ### WARNING ALWAYS CHECK YOUR VERSION AS FUNCTIONS MAY BE DEPRECATED FOR OLDER VERSIONS
 
-`import pandas as pd`
-`from sklearn.model_selection import train_test_split`
-`from sklearn.ensemble import RandomForestRegressor`
-`from sklearn.model_selection import train_test_split,GridSearchCV`
-`from matplotlib import pyplot as plt`
-`import numpy as np`
-`import seaborn as sns`
-`from sklearn.metrics import mean_squared_error,mean_absolute_error,r2_score,explained_variance_score`
+- `import pandas as pd`
+- `from sklearn.model_selection import train_test_split`
+- `from sklearn.ensemble import RandomForestRegressor`
+- `from sklearn.model_selection import train_test_split,GridSearchCV`
+- `from matplotlib import pyplot as plt`
+- `import numpy as np`
+- `import seaborn as sns`
+- `from sklearn.metrics import mean_squared_error,mean_absolute_error,r2_score,explained_variance_score`
 
 
 
 Data Sources:  
-  100,00 Used UK Cars [100,000 Used UK Cars](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes?select=audi.csv)
-  Car93 [Cars93](https://www.kaggle.com/datasets/anand0427/cars93)
-  California Housing[Fetch California Housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
+  - 100,00 Used UK Cars [100,000 Used UK Cars](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes?select=audi.csv)
+  - Car93 [Cars93](https://www.kaggle.com/datasets/anand0427/cars93)
+ -  California Housing[Fetch California Housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 
 Files:
