@@ -68,7 +68,6 @@ You will need the following imports to replicate our results.
 Data Sources:  
  - 100,00 Used UK Cars [100,000 Used UK Cars](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes?select=audi.csv)
  - Car93 [Cars93](https://www.kaggle.com/datasets/anand0427/cars93)
- -  California Housing[Fetch California Housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
+ -  California Housing [Fetch California Housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 
-Files:
